@@ -32,5 +32,5 @@ The Interactive Quiz System must satisfy the following constraints:<br/>
 • Application Type: The system must be a desktop application, focusing on providing interactive user experience.<br/>
 • Question Types: The system must support multiple question types, including multiple choice and true/false.<br/>
 • Real-Time Scoring: The system must provide real-time scoring upon quiz completion.<br/>
-• Compatibility: The system must be compatible with Java 11 or later.
-• Timeline: The project must be completed within a specified timeline, such as three months, to ensure timely delivery.
+• Compatibility: The system must be compatible with Java 11 or later.<br/>
+• Timeline: The project must be completed within a specified timeline, such as three months, to ensure timely delivery.<br/>
