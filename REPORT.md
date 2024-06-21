@@ -1,7 +1,8 @@
 # ENSE 375 – Software Testing and Validation
 
-## Interactive Quiz System
+# Interactive Quiz System
 
+## Team Members:
 - Trupalkumar Dharmeshbhai Ukani (200515399)
 - Bhargav Taraviya (200518969)
 - Yi Xu (200457644)
@@ -58,6 +59,10 @@
 
 [8 Appendix 12](#_Toc43885145)
 
-List of Figures
+**List of Figures**
 
-List of Tables
+**List of Tables**
+
+1. # <a name="_toc43885122"></a>**Introduction**
+- This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
+- The following sections will cover problem definition, design requirements and solutions. Finally, there is a conclusion and ideas for future work.
