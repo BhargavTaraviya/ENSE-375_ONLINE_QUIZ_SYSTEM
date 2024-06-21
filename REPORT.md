@@ -92,10 +92,10 @@ The Interactive Quiz System provides the following key functions:
 - **Create Quiz**: Users can create new quizzes by adding various types of questions. 
 - **Edit Quiz**: Users can modify existing quizzes, including updating quiz name and questions. 
 - **Delete Quiz**: Users can remove existing quizzes from the system. 
-- **Add Questions**: Users can add new questions to quizzes, with different question types such as multiple choice and true/false. 
-- **Edit Questions**: Users can update the content of existing questions in the quiz. 
-- **Take Quizzes**: Users can participate in quizzes. The questions will be presented and answers chosen by users will be recorded. 
-- **Score Quizzes**: Automatically calculate and display score immediately after finishing the quiz, providing immediate feedback on performance.
+- **Add Question**: Users can add new questions to quizzes, with different question types such as multiple choice and true/false. 
+- **Edit Question**: Users can update the content of existing questions in the quiz. 
+- **Take Quiz**: Users can participate in quizzes. The questions will be presented and answers chosen by users will be recorded. 
+- **Score Quiz**: Automatically calculate and display score immediately after finishing the quiz, providing immediate feedback on performance.
 ### <a name="_toc43885127"></a>2.2.2 Objectives
 The design of the Interactive Quiz System aims to achieve the following objectives: 
 
