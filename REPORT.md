@@ -112,7 +112,7 @@ The Interactive Quiz System will consider the following constraints:
 - **Regulatory compliance**: Users are required to sign in to the system for using the service, and we will prevent personal account information from leaking.
 - **Reliability**: The quiz system can be maintained to ensure an excellent user experience
 - **Ethics**: The grading criteria for the quizzes are equal for all users.
-- 
+
 # <a name="_toc43885129"></a>**3 Solution**
 
 ## <a name="_toc43885130"></a>3.1  Solution 1
