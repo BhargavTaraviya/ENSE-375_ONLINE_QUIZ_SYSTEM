@@ -68,19 +68,19 @@
 - The following sections will cover problem definition, design requirements and solutions. Finally, there is a conclusion and ideas for future work.
 
 # <a name="_toc43885123"></a>**2. Design Problem**
-## <a name="_toc43885124"></a>Problem Definition
-**Problems for Ineffective Quiz Management:** 
+## <a name="_toc43885124"></a>2.1 Problem Definition
+### **Problems for Ineffective Quiz Management:**
 
-**Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. 
-**Limited Accessibility:** Traditional methods do not support easy access and management of quizzes from remote locations, which can be lost somewhere easily. 
-**Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. 
+**1. Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. 
+**2. Limited Accessibility:** Traditional methods do not support easy access and management of quizzes from remote locations, which can be lost somewhere easily. 
+**3. Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. 
 
-**Benefits of an Digital Solution:** 
+### **Benefits of an Digital Solution:** 
 
-**Improved Efficiency:** A digital system can automate quiz creation, distribution, and evaluation, saving time and effort. 
-**User-Friendly Interface:** A straightforward interface makes it easier for users to manage quizzes. 
-**Remote Accessibility:** Users can access and manage quizzes from any location, facilitating remote learning. 
+**1. Improved Efficiency:** A digital system can automate quiz creation, distribution, and evaluation, saving time and effort. 
+**2. User-Friendly Interface:** A straightforward interface makes it easier for users to manage quizzes. 
+**3. Remote Accessibility:** Users can access and manage quizzes from any location, facilitating remote learning. 
 
-**Rationale** 
+### **Rationale** 
 
 It was evident that there is a need for this project through the various issues related to the difficulties of using traditional approaches, as well as managing digital quiz packages and tools that are currently available. A wide range of users will benefit from improved management of quizzes provided by the Interactive Quiz System, which focuses on a simple, efficient, and accessible service. Our system avoids the major drawbacks of purely paper-based systems and complex electronic systems. It maintains the productivity of a system without some redundant features.
