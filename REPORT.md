@@ -71,9 +71,9 @@
 ## <a name="_toc43885124"></a>2.1 Problem Definition
 ### **Problems for Ineffective Quiz Management:**
 
-**1. Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. 
-**2. Limited Accessibility:** Traditional methods do not support easy access and management of quizzes from remote locations, which can be lost somewhere easily. 
-**3. Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. 
+**1. Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. \
+**2. Limited Accessibility:** Traditional methods do not support easy access and management of quizzes from remote locations, which can be lost somewhere easily. \
+**3. Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. \
 
 ### **Benefits of an Digital Solution:** 
 
