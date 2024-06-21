@@ -105,7 +105,7 @@ The design of the Interactive Quiz System aims to achieve the following objectiv
 - **Reliable**: The system should function correctly and consistently under normal usage conditions, maintaining data integrity and accuracy. 
 - **Maintainable**: The system should be designed with clean and modular code, facilitating easy maintenance and future enhancements. 
 - **Secure**: The system should store user data and quiz content securely to prevent unauthorized access and ensure data privacy. 
-### <a name="_toc43885128"></a>2.2.3Constraints
+### <a name="_toc43885128"></a>2.2.3 Constraints
 The Interactive Quiz System will consider the following constraints: 
 
 - **Economic factors:**  Since there is no budgets for this project, we will keep this project in a small size.
@@ -114,7 +114,7 @@ The Interactive Quiz System will consider the following constraints:
 - **Ethics**: The grading criteria for the quizzes are equal for all users.
 - 
 # <a name="_toc43885129"></a>**3 Solution**
-In this section, you will provide an account of some solutions your team brainstormed to implement the project. Some solutions might not have all the desired features, some might not satisfy the constraints, or both. These solutions come up in your mind while you brainstorm ways of implementing all the features while meeting the constraints. Towards, the end you select a solution that you think has all the features and satisfies all the constraints. Remember that an engineering design is iterative in nature! 
+
 ## <a name="_toc43885130"></a>3.1  Solution 1
 
 Our initial solution was to implement the Interactive Quiz System using a basic structure focusing on essential functionalities. The primary features included a login system, adding quizzes, deleting quizzes, and viewing all quizzes. We aimed to build a foundation before adding more complex features. 
