@@ -1,14 +1,12 @@
-ENSE 375 – Software Testing and Validation
+# ENSE 375 – Software Testing and Validation
 
-Interactive Quiz System
+## Interactive Quiz System
 
-Trupalkumar Dharmeshbhai Ukani (200515399)
+- Trupalkumar Dharmeshbhai Ukani (200515399)
+- Bhargav Taraviya (200518969)
+- Yi Xu (200457644)
 
-Bhargav Taraviya (200518969)
-
-Yi Xu (200457644)
-
-Table of Contents
+**Table of Contents**
 
 [1 Introduction 5](#_Toc43885122)
 
