@@ -73,14 +73,42 @@
 
 **1. Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. \
 **2. Limited Accessibility:** Traditional methods do not support easy access and management of quizzes from remote locations, which can be lost somewhere easily. \
-**3. Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. \
+**3. Complexity of Existing Solutions:** Many existing digital solutions are overly complex and not user-friendly. 
 
 ### **Benefits of an Digital Solution:** 
 
-**1. Improved Efficiency:** A digital system can automate quiz creation, distribution, and evaluation, saving time and effort. 
-**2. User-Friendly Interface:** A straightforward interface makes it easier for users to manage quizzes. 
+**1. Improved Efficiency:** A digital system can automate quiz creation, distribution, and evaluation, saving time and effort. \
+**2. User-Friendly Interface:** A straightforward interface makes it easier for users to manage quizzes. \
 **3. Remote Accessibility:** Users can access and manage quizzes from any location, facilitating remote learning. 
 
 ### **Rationale** 
 
 It was evident that there is a need for this project through the various issues related to the difficulties of using traditional approaches, as well as managing digital quiz packages and tools that are currently available. A wide range of users will benefit from improved management of quizzes provided by the Interactive Quiz System, which focuses on a simple, efficient, and accessible service. Our system avoids the major drawbacks of purely paper-based systems and complex electronic systems. It maintains the productivity of a system without some redundant features.
+
+## <a name="_toc43885125"></a>2.2 Design Requirements
+### <a name="_toc43885126"></a>2.2.1 Functions
+The Interactive Quiz System provides the following key functions: 
+
+- **Create Quiz**: Users can create new quizzes by adding various types of questions. 
+- **Edit Quiz**: Users can modify existing quizzes, including updating quiz name and questions. 
+- **Delete Quiz**: Users can remove existing quizzes from the system. 
+- **Add Questions**: Users can add new questions to quizzes, with different question types such as multiple choice and true/false. 
+- **Edit Questions**: Users can update the content of existing questions in the quiz. 
+- **Take Quizzes**: Users can participate in quizzes. The questions will be presented and answers chosen by users will be recorded. 
+- **Score Quizzes**: Automatically calculate and display score immediately after finishing the quiz, providing immediate feedback on performance.
+### <a name="_toc43885127"></a>2.2.2 Objectives
+The design of the Interactive Quiz System aims to achieve the following objectives: 
+
+- **User-Friendly**: The system should provide an intuitive and easy-to-navigate interface to improve user interaction and satisfaction. 
+- **Efficient**: The system should ensure a smooth and seamless user experience without causing errors. 
+- **Responsive**: The system should offer real-time scoring and immediate feedback upon quiz completion. 
+- **Reliable**: The system should function correctly and consistently under normal usage conditions, maintaining data integrity and accuracy. 
+- **Maintainable**: The system should be designed with clean and modular code, facilitating easy maintenance and future enhancements. 
+- **Secure**: The system should store user data and quiz content securely to prevent unauthorized access and ensure data privacy. 
+### <a name="_toc43885128"></a>2.2.3Constraints
+The Interactive Quiz System will consider the following constraints: 
+
+- **Economic factors:**  Since there is no budgets for this project, we will keep this project in a small size.
+- **Regulatory compliance**: Users are required to sign in to the system for using the service, and we will prevent personal account information from leaking.
+- **Reliability**: The quiz system can be maintained to ensure an excellent user experience
+- **Ethics**: The grading criteria for the quizzes are equal for all users.
