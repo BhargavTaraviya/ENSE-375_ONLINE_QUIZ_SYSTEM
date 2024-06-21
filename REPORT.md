@@ -115,7 +115,7 @@ The Interactive Quiz System will consider the following constraints:
 - 
 # <a name="_toc43885129"></a>**3 Solution**
 In this section, you will provide an account of some solutions your team brainstormed to implement the project. Some solutions might not have all the desired features, some might not satisfy the constraints, or both. These solutions come up in your mind while you brainstorm ways of implementing all the features while meeting the constraints. Towards, the end you select a solution that you think has all the features and satisfies all the constraints. Remember that an engineering design is iterative in nature! 
-## <a name="_toc43885130"></a>3.1 Solution 1
+## <a name="_toc43885130"></a>3.1  Solution 1
 
 Our initial solution was to implement the Interactive Quiz System using a basic structure focusing on essential functionalities. The primary features included a login system, adding quizzes, deleting quizzes, and viewing all quizzes. We aimed to build a foundation before adding more complex features. 
 
@@ -123,5 +123,5 @@ Our initial solution was to implement the Interactive Quiz System using a basic 
 
 This approach had significant drawbacks. The application only supported adding quizzes without the ability to add questions and answers, making the system incomplete. Managing multiple users and quizzes through a CLI was unmanageable. Given these limitations, we decided that this solution would not be suitable for our project goals and needed further enhancement.
 
-## <a name="_toc43885131"></a>3.2 Solution 2
+## <a name="_toc43885131"></a>3.2  Solution 2
 This is an improved solution but might not be the final solution that you select. Give a brief description of this solution here.
