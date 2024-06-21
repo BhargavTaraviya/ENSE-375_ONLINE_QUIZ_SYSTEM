@@ -7,7 +7,7 @@
 - Bhargav Taraviya (200518969)
 - Yi Xu (200457644)
 
-**Table of Contents**
+## Table of Contents
 
 [1 Introduction 5](#_Toc43885122)
 
