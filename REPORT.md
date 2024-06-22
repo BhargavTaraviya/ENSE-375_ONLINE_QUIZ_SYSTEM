@@ -59,9 +59,9 @@
 
 [8 Appendix](#_Toc43885145)
 
-**List of Figures**
+## List of Figures
 
-**List of Tables**
+## List of Tables
 
 # <a name="_toc43885122"></a>**1. Introduction**
 - This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
@@ -125,3 +125,5 @@ This approach had significant drawbacks. The application only supported adding q
 
 ## <a name="_toc43885131"></a>3.2  Solution 2
 This is an improved solution but might not be the final solution that you select. Give a brief description of this solution here.
+
+## <a name="_toc43885132"></a>3.3 Final Solution
