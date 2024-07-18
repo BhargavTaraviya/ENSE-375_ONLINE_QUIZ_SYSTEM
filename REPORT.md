@@ -37,27 +37,27 @@
 
 [3.3.3 Environmental, Societal, Safety, and Economic Considerations](#_Toc43885135)
 
-[3.3.5 Test cases and results](#_Toc43885136)
+[3.3.4 Test cases and results](#_Toc43885136)
 
-[3.3.4 Limitations](#_Toc43885136)
+[3.3.5 Limitations](#_Toc43885137)
 
-[4 Team Work](#_Toc43885137)
+[4 Team Work](#_Toc43885138)
 
-[4.1 Meeting 1](#_Toc43885138)
+[4.1 Meeting 1](#_Toc43885139)
 
-[4.2 Meeting 2](#_Toc43885139)
+[4.2 Meeting 2](#_Toc43885140)
 
-[4.3 Meeting 3](#_Toc43885140)
+[4.3 Meeting 3](#_Toc43885141)
 
-[4.4 Meeting 4](#_Toc43885141)
+[4.4 Meeting 4](#_Toc43885142)
 
-[5 Project Management](#_Toc43885142)
+[5 Project Management](#_Toc43885143)
 
-[6 Conclusion and Future Work ](#_Toc43885143)
+[6 Conclusion and Future Work ](#_Toc43885144)
 
-[7 References](#_Toc43885144)
+[7 References](#_Toc43885145)
 
-[8 Appendix](#_Toc43885145)
+[8 Appendix](#_Toc43885146)
 
 ## List of Figures
 
@@ -146,3 +146,33 @@ While this solution was a good improvement over Solution 1, it still had some li
 -	Add User: Admins can add new users which supports better user management.
 
 ## <a name="_toc43885132"></a>3.3 Final Solution
+
+### <a name="_toc43885133"></a>3.3.1 Components
+
+### <a name="_toc43885134"></a>3.3.2 features
+
+### <a name="_toc43885135"></a>3.3.3 Environmental, Societal, Safety, and Economic Considerations
+
+### <a name="_toc43885136"></a>3.3.4 Test cases and results
+
+### <a name="_toc43885137"></a>3.3.5 Limitations
+
+# <a name="_toc43885138"></a>**4 Team Work**
+
+## <a name="_toc43885139"></a>4.1 Meeting 1
+
+## <a name="_toc43885140"></a>4.2 Meeting 2
+
+## <a name="_toc43885141"></a>4.3 Meeting 3
+
+## <a name="_toc43885142"></a>4.4 Meeting 4
+
+# <a name="_toc43885143"></a>**5 Project Management**
+
+# <a name="_toc43885144"></a>**6 Conclusion and Future Work**
+
+# <a name="_toc43885145"></a>**7 References**
+
+# <a name="_toc43885146"></a>**8 Appendix**
+
+
