@@ -9,55 +9,55 @@
 
 ## Table of Contents
 
-[1 Introduction](#_Toc43885122)
+[1  Introduction](#_Toc43885122)
 
-[2 Design Problem](#_Toc43885123)
+[2  Design Problem](#_Toc43885123)
 
-[2.1 Problem Definition](#_Toc43885124)
+[2.1  Problem Definition](#_Toc43885124)
 
-[2.2 Design Requirements](#_Toc43885125)
+[2.2  Design Requirements](#_Toc43885125)
 
-[2.2.1 Functions](#_Toc43885126)
+[2.2.1  Functions](#_Toc43885126)
 
-[2.2.2 Objectives](#_Toc43885127)
+[2.2.2  Objectives](#_Toc43885127)
 
-[2.2.3 Constraints](#_Toc43885128)
+[2.2.3  Constraints](#_Toc43885128)
 
-[3 Solution](#_Toc43885129)
+[3  Solution](#_Toc43885129)
 
-[3.1 Solution 1](#_Toc43885130)
+[3.1  Solution 1](#_Toc43885130)
 
-[3.2 Solution 2](#_Toc43885131)
+[3.2  Solution 2](#_Toc43885131)
 
-[3.3 Final Solution](#_Toc43885132)
+[3.3  Final Solution](#_Toc43885132)
 
-[3.3.1 Components](#_Toc43885133)
+[3.3.1  Components](#_Toc43885133)
 
-[3.3.2 Features](#_Toc43885134)
+[3.3.2  Features](#_Toc43885134)
 
-[3.3.3 Environmental, Societal, Safety, and Economic Considerations](#_Toc43885135)
+[3.3.3  Environmental, Societal, Safety, and Economic Considerations](#_Toc43885135)
 
-[3.3.4 Test cases and results](#_Toc43885136)
+[3.3.4  Test cases and results](#_Toc43885136)
 
-[3.3.5 Limitations](#_Toc43885137)
+[3.3.5  Limitations](#_Toc43885137)
 
-[4 Team Work](#_Toc43885138)
+[4  Team Work](#_Toc43885138)
 
-[4.1 Meeting 1](#_Toc43885139)
+[4.1  Meeting 1](#_Toc43885139)
 
-[4.2 Meeting 2](#_Toc43885140)
+[4.2  Meeting 2](#_Toc43885140)
 
-[4.3 Meeting 3](#_Toc43885141)
+[4.3  Meeting 3](#_Toc43885141)
 
-[4.4 Meeting 4](#_Toc43885142)
+[4.4  Meeting 4](#_Toc43885142)
 
-[5 Project Management](#_Toc43885143)
+[5  Project Management](#_Toc43885143)
 
-[6 Conclusion and Future Work ](#_Toc43885144)
+[6  Conclusion and Future Work ](#_Toc43885144)
 
-[7 References](#_Toc43885145)
+[7  References](#_Toc43885145)
 
-[8 Appendix](#_Toc43885146)
+[8  Appendix](#_Toc43885146)
 
 ## List of Figures
 
