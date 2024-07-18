@@ -161,11 +161,43 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ## <a name="_toc43885139"></a>4.1 Meeting 1
 
+Time: Month Date, Year, hour: minutes am/pm to hour: minutes am/pm
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
 ## <a name="_toc43885140"></a>4.2 Meeting 2
+
+Time:
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
 
 ## <a name="_toc43885141"></a>4.3 Meeting 3
 
+Time:
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
 ## <a name="_toc43885142"></a>4.4 Meeting 4
+
+Time:
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
 
 # <a name="_toc43885143"></a>**5 Project Management**
 
