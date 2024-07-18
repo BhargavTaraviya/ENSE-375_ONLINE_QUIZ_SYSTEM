@@ -63,11 +63,11 @@
 
 ## List of Tables
 
-# <a name="_toc43885122"></a>**1. Introduction**
+# <a name="_toc43885122"></a>**1 Introduction**
 - This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
 - The following sections will cover problem definition, design requirements and solutions. Finally, there is a conclusion and ideas for future work.
 
-# <a name="_toc43885123"></a>**2. Design Problem**
+# <a name="_toc43885123"></a>**2 Design Problem**
 ## <a name="_toc43885124"></a>2.1 Problem Definition
 ### **Problems for Ineffective Quiz Management:**
 
