@@ -161,7 +161,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ## <a name="_toc43885139"></a>4.1 Meeting 1
 
-Time: Month Date, Year, hour: minutes am/pm to hour: minutes am/pm
+Time: Month Date, Year, hour: minutes am/pm to hour: minutes am/pm  
 Agenda:
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -171,7 +171,7 @@ Agenda:
 
 ## <a name="_toc43885140"></a>4.2 Meeting 2
 
-Time:
+Time:  
 Agenda:
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -181,7 +181,7 @@ Agenda:
 
 ## <a name="_toc43885141"></a>4.3 Meeting 3
 
-Time:
+Time:  
 Agenda:
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -191,7 +191,7 @@ Agenda:
 
 ## <a name="_toc43885142"></a>4.4 Meeting 4
 
-Time:
+Time:  
 Agenda:
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
