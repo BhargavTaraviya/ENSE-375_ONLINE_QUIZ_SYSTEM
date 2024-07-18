@@ -67,8 +67,8 @@
 - This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
 - The following sections will cover problem definition, design requirements and solutions. Finally, there is a conclusion and ideas for future work.
 
-# <a name="_toc43885123"></a>**2  Design Problem**
-## <a name="_toc43885124"></a>2.1  Problem Definition
+# <a name="_toc43885123"></a>**2 &nbsp;Design Problem**
+## <a name="_toc43885124"></a>2.1 &nbsp;Problem Definition
 ### **Problems for Ineffective Quiz Management:**
 
 **1. Inconvenience:** Traditional paper-based quizzes require significant time and efforts for distribution and evaluation. \
@@ -85,7 +85,7 @@
 
 It was evident that there is a need for this project through the various issues related to the difficulties of using traditional approaches, as well as managing digital quiz packages and tools that are currently available. A wide range of users will benefit from improved management of quizzes provided by the Interactive Quiz System, which focuses on a simple, efficient, and accessible service. Our system avoids the major drawbacks of purely paper-based systems and complex electronic systems. It maintains the productivity of a system without some redundant features.
 
-## <a name="_toc43885125"></a>2.2 Design Requirements
+## <a name="_toc43885125"></a>2.2 &nbsp;Design Requirements
 ### <a name="_toc43885126"></a>2.2.1 Functions
 The Interactive Quiz System provides the following key functions: 
 
@@ -113,9 +113,9 @@ The Interactive Quiz System will consider the following constraints:
 - **Reliability**: The quiz system can be maintained to ensure an excellent user experience
 - **Ethics**: The grading criteria for the quizzes are equal for all users.
 
-# <a name="_toc43885129"></a>**3 Solution**
+# <a name="_toc43885129"></a>**3 &nbsp;Solution**
 
-## <a name="_toc43885130"></a>3.1  Solution 1
+## <a name="_toc43885130"></a>3.1 &nbsp;Solution 1
 
 Our initial solution was to implement the Interactive Quiz System using a basic structure focusing on essential functionalities. The primary features included a login system, adding quizzes, deleting quizzes, and viewing all quizzes. We aimed to build a foundation before adding more complex features. 
 
@@ -129,7 +129,7 @@ This approach had significant drawbacks. The application only supported adding q
 - Delete Quiz: Users can delete existing quizzes.
 - View All Quizzes: Users can list all available quizzes.
 
-## <a name="_toc43885131"></a>3.2  Solution 2
+## <a name="_toc43885131"></a>3.2 &nbsp;Solution 2
 The second solution added more of the basic functionalities in the first solution by introducing additional features such as the ability to create, edit, and delete quizzes, add users, and manage quizzes with a structured approach. This version included the use of several classes to handle different parts of the quiz system which made the code more readable and easier to maintain.
 
 **Reason for Not Selecting This Solution** 
@@ -145,7 +145,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 -	Take Quiz: Users can take quizzes and receive immediate scores, improving feedback system.
 -	Add User: Admins can add new users which supports better user management.
 
-## <a name="_toc43885132"></a>3.3 Final Solution
+## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
 
 ### <a name="_toc43885133"></a>3.3.1 Components
 
@@ -157,9 +157,9 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ### <a name="_toc43885137"></a>3.3.5 Limitations
 
-# <a name="_toc43885138"></a>**4 Team Work**
+# <a name="_toc43885138"></a>**4 &nbsp;Team Work**
 
-## <a name="_toc43885139"></a>4.1 Meeting 1
+## <a name="_toc43885139"></a>4.1 &nbsp;Meeting 1
 
 Time: Month Date, Year, hour: minutes am/pm to hour: minutes am/pm  
 Agenda:
@@ -169,7 +169,7 @@ Agenda:
 | Bhargav Taraviya               |               |                  |           |
 | Yi Xu                          |               |                  |           |
 
-## <a name="_toc43885140"></a>4.2 Meeting 2
+## <a name="_toc43885140"></a>4.2 &nbsp;Meeting 2
 
 Time:  
 Agenda:
@@ -179,7 +179,7 @@ Agenda:
 | Bhargav Taraviya               |               |                  |           |
 | Yi Xu                          |               |                  |           |
 
-## <a name="_toc43885141"></a>4.3 Meeting 3
+## <a name="_toc43885141"></a>4.3 &nbsp;Meeting 3
 
 Time:  
 Agenda:
@@ -189,7 +189,7 @@ Agenda:
 | Bhargav Taraviya               |               |                  |           |
 | Yi Xu                          |               |                  |           |
 
-## <a name="_toc43885142"></a>4.4 Meeting 4
+## <a name="_toc43885142"></a>4.4 &nbsp;Meeting 4
 
 Time:  
 Agenda:
@@ -199,12 +199,12 @@ Agenda:
 | Bhargav Taraviya               |               |                  |           |
 | Yi Xu                          |               |                  |           |
 
-# <a name="_toc43885143"></a>**5 Project Management**
+# <a name="_toc43885143"></a>**5 &nbsp;Project Management**
 
-# <a name="_toc43885144"></a>**6 Conclusion and Future Work**
+# <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
 
-# <a name="_toc43885145"></a>**7 References**
+# <a name="_toc43885145"></a>**7 &nbsp;References**
 
-# <a name="_toc43885146"></a>**8 Appendix**
+# <a name="_toc43885146"></a>**8 &nbsp;Appendix**
 
 
