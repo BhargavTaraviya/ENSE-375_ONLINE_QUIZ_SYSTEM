@@ -134,11 +134,11 @@ For the second solution, the login system will identify admins and regular users
 
 **Reason for Not Selecting This Solution** 
 
-While this solution was a good improvement over Solution 1, it still had some limitations. Specifically, it lacked a direct method to update an existing quiz. Users had to delete the old quiz and create a new one to update a quiz, which was not very user-friendly.
+While this solution was a good improvement over Solution 1, it still had some limitations. Without the input validations for the account system and quiz system, there could be many potential risks, leading to poor user experience. 
 
 **Summary of Available Features**
 - Login System: Authentication is supported for identifying admin and regular users.
--	Add Quiz: Admins can add quizzes with multiple questions, improving the method of the first solution.
+-	Create Quiz: Admins can create quizzes with multiple questions, improving the method of the first solution.
 -	Edit Quiz: Admins can edit existing quizzes, including quiz titles and questions.
 -	Delete Quiz: Admins can also delete quizzes.
 -	View All Quizzes: Both admins and regular users can view all the available quizzes, with detailed information on questions and options.
@@ -146,7 +146,15 @@ While this solution was a good improvement over Solution 1, it still had some li
 -	Add User: Admins can add new users which supports better user management.
 
 ## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
-
+In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system.
+| Functionalities/Solutions | Solution 1 | Solution 2 | Final Solution |
+|:-------------------------:|:----------:|:----------:|:--------------:|
+|        Login System       |      ✓     |      ✓     |        ✓       |
+| Admin and User Separation |            |      ✓     |        ✓       |
+|       Quiz Creation       |      ✓     |      ✓     |        ✓       |
+|       Quiz Execution      |            |      ✓     |        ✓       |
+|        Quiz Edition       |            |      ✓     |        ✓       |
+|      Input Validation     |            |            |        ✓       |
 ### <a name="_toc43885133"></a>3.3.1 Components
 
 ### <a name="_toc43885134"></a>3.3.2 features
