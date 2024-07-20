@@ -160,10 +160,10 @@ In the final solution, the validations for username and password are implemented
 ### <a name="_toc43885134"></a>3.3.2 Features
 
 ### <a name="_toc43885135"></a>3.3.3 Environmental, Societal, Safety, and Economic Considerations
-- Environmental: The online quiz system saves paper, and it will save a lot resources for long-term usage. 
-- Societal: For professors, the online quiz system saves the time of collecting and distributing the quiz papers
-- Safety: With login system and password validation, the safety of the account can be ensured
-- 
+- Environmental Consideration: The online quiz system saves paper, and it will save a lot resources for long-term usage. 
+- Societal Consideration: For professors, the online quiz system saves the time of collecting and distributing the quiz papers
+- Safety Consideration: With login system and password validation, the safety of the account can be ensured
+- Economic Consideration: As the time is not sufficient for a large-sized prpject, we keep this project small with all functionalities needed
 ### <a name="_toc43885136"></a>3.3.4 Test cases and results
 
 ### <a name="_toc43885137"></a>3.3.5 Limitations
