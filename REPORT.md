@@ -130,7 +130,7 @@ This approach had significant drawbacks. The application only supported adding q
 - View All Quizzes: Users can list all available quizzes.
 
 ## <a name="_toc43885131"></a>3.2 &nbsp;Solution 2
-The second solution added more of the basic functionalities in the first solution by introducing additional features such as the ability to create, edit, and delete quizzes, add users, and manage quizzes with a structured approach. This version included the use of several classes to handle different parts of the quiz system which made the code more readable and easier to maintain.
+For the second solution, the login system will identify admins and regular users. More basic functionalities are added based on the first solution by introducing additional features to create, edit, delete and manage quizzes with a structured approach. This version included the use of several classes to handle different parts of the quiz system which made the code more readable and easier to maintain.
 
 **Reason for Not Selecting This Solution** 
 
