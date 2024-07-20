@@ -152,12 +152,16 @@ In the final solution, the validations for username and password are implemented
 |        Login System       |      ✓     |      ✓     |        ✓       |
 | Admin and User Separation |            |      ✓     |        ✓       |
 |       Quiz Creation       |      ✓     |      ✓     |        ✓       |
+|       Quiz Deletion       |      ✓     |      ✓     |        ✓       |
 |       Quiz Execution      |            |      ✓     |        ✓       |
 |        Quiz Edition       |            |      ✓     |        ✓       |
 |      Input Validation     |            |            |        ✓       |
 ### <a name="_toc43885133"></a>3.3.1 Components
-
+![Block Diagram](Documents/Block Diagram.jpg)
 ### <a name="_toc43885134"></a>3.3.2 Features
+- User Authentication: While logging in, show different menus for admins and users
+- Add new user： Admins can add users by providing username and password that can pass the validation
+- View all quizzes: Admins can view the quizzes they have made in the admin menu
 
 ### <a name="_toc43885135"></a>3.3.3 Environmental, Societal, Safety, and Economic Considerations
 - Environmental Consideration: The online quiz system saves paper, and it will save a lot resources for long-term usage. 
