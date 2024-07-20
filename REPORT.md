@@ -169,7 +169,9 @@ In the final solution, the validations for username and password are implemented
 - Safety Consideration: With login system and password validation, the safety of the account can be ensured
 - Economic Consideration: As the time is not sufficient for a large-sized prpject, we keep this project small with all functionalities needed
 ### <a name="_toc43885136"></a>3.3.4 Test cases and results
-
+For AddUser function, we use Boundry Value Testing, Decision Tables Testing and Equivalence Class Testing. 
+For TakeQuiz function, we choose Use Case Testing.
+Detailed information about testing are provided in TESTING.md file. 
 ### <a name="_toc43885137"></a>3.3.5 Limitations
 - Lack of User Review: Users can not review the results of the quizzes they have taken before
 - Weak User feedback: Users got an instant feedback which shows the mark they got, but they don't know the specific questions are right or wrong
