@@ -146,7 +146,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 -	Add User: Admins can add new users which supports better user management.
 
 ## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
-In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system.
+In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system. The table below shows the comparision among solutions of different versions. 
 | Functionalities/Solutions | Solution 1 | Solution 2 | Final Solution |
 |:-------------------------:|:----------:|:----------:|:--------------:|
 |        Login System       |      ✓     |      ✓     |        ✓       |
@@ -157,14 +157,18 @@ In the final solution, the validations for username and password are implemented
 |      Input Validation     |            |            |        ✓       |
 ### <a name="_toc43885133"></a>3.3.1 Components
 
-### <a name="_toc43885134"></a>3.3.2 features
+### <a name="_toc43885134"></a>3.3.2 Features
 
 ### <a name="_toc43885135"></a>3.3.3 Environmental, Societal, Safety, and Economic Considerations
-
+- Environmental: The online quiz system saves paper, and it will save a lot resources for long-term usage. 
+- Societal: For professors, the online quiz system saves the time of collecting and distributing the quiz papers
+- Safety: With login system and password validation, the safety of the account can be ensured
+- 
 ### <a name="_toc43885136"></a>3.3.4 Test cases and results
 
 ### <a name="_toc43885137"></a>3.3.5 Limitations
-
+- Lack of User Review: Users can not review the results of the quizzes they have taken before
+- Weak User feedback: Users got an instant feedback which shows the mark they got, but they don't know the specific questions are right or wrong
 # <a name="_toc43885138"></a>**4 &nbsp;Team Work**
 
 ## <a name="_toc43885139"></a>4.1 &nbsp;Meeting 1
