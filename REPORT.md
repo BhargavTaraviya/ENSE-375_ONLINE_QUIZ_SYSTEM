@@ -157,7 +157,7 @@ In the final solution, the validations for username and password are implemented
 |        Quiz Edition       |            |      ✓     |        ✓       |
 |      Input Validation     |            |            |        ✓       |
 ### <a name="_toc43885133"></a>3.3.1 Components
-![Block Diagram](Documents/Block Diagram.jpg)
+![Block Diagram](Documents/Block_Diagram.jpg)
 ### <a name="_toc43885134"></a>3.3.2 Features
 - User Authentication: While logging in, show different menus for admins and users
 - Add new user： Admins can add users by providing username and password that can pass the validation
