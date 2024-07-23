@@ -140,4 +140,4 @@ With unit testing, we can test individual classes and their methods in isolation
 # Integration Testing
 The parts in the online quiz system are tested in a group to see how they interact with each other. The classes tested are **AddUser**, **CreateQuiz**, **EditQuiz**, **DeleteQuiz**, **HandleLogin**, **ShowAdminMenu**, **ShowUserMenu**, **TakeQuiz**, and **ViewQuizzes**.  
 
-Here is the [Link](Testing/CompleteQuizSystemTestSuite.java)for Unit Testing and Integration Testing.
+Here is the [Link](Testing/CompleteQuizSystemTestSuite.java) for Unit Testing and Integration Testing.
