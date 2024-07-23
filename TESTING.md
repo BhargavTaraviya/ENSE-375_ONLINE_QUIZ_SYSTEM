@@ -113,7 +113,7 @@ Here is the Decision Table for AddUser class
 
 # Equivalence Class Testing
 For simplicity, we just consider conditions about username length and password length.  
-Username: <span style="color:red">(-∞，1), [1, 15], (15, +∞)  </span>
+Username: <span style="color:red">(-∞，1), [1, 15], (15, +∞)</span>
 Password: (-∞, 6), [6,15], (15,+∞)
 
 # Data Flow Testing
