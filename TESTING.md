@@ -17,7 +17,7 @@
 4.	Verify that appropriate error messages are displayed for invalid inputs.
 5.	Verify that the user is added successfully for valid inputs.
 
-Here is the table for AddUser class:
+Here is the table for **AddUser** class:
 
 |     Test Case    |                  Test Description                 |     Username Length    |     Password Length    |     Username Contains Special Character    |                    Expected Result                   |
 |:----------------:|:-------------------------------------------------:|:----------------------:|:----------------------:|:------------------------------------------:|:---------------------------------------------------:|
@@ -48,7 +48,7 @@ Here is the table for AddUser class:
 1.	The system should provide feedback messages for invalid inputs.
 2.	The system should handle the quiz selection and question answering smoothly.
 
-Here is the table for TakeQuiz class:
+Here is the table for **TakeQuiz** class:
 |     Test Case    |     Test Description          |     Quiz Available    |     Selected Quiz           |     User Answers       |     Expected Result           |      Expected Result                            |
 |:----------------:|:-----------------------------:|:---------------------:|:---------------------------:|:----------------------:|:-----------------------------:|:-----------------------------------------------:|
 | 1                |     Take a quiz with valid selections              |     Yes        |     Valid Quiz         |     All Correct     |     Display score with all   correct answers   |     Quiz created successfully |
@@ -88,7 +88,7 @@ Here is the table for TakeQuiz class:
 8.	Add new user
 9.	Notify "User added successfully."
 
-Here is the Decision Table for AddUser class
+Here is the Decision Table for **AddUser** class
 ## Conditions:
 |                      Conditions                        |     Rule 1 |     Rule 2 |     Rule 3 |     Rule 4 |     Rule 5 |     Rule 6 |
 |:------------------------------------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -112,9 +112,23 @@ Here is the Decision Table for AddUser class
 |            Notify "User added successfully."           |                 |                 |                 |                 |                 |        X        |
 
 # Equivalence Class Testing
-For simplicity, we just consider conditions about username length and password length.  
-Username: <span style="color:red">(-∞，1), [1, 15], (15, +∞)</span>
-Password: (-∞, 6), [6,15], (15,+∞)
+For simplicity, we just consider conditions about username length and password length, and we are going to use Strong Robust ECT.
+Username: (-∞，1), [1, 15], (15, +∞)
+Password: (-∞, 6), [6, 15], (15, +∞)
+
+Here is the table for **AddUser** Class: 
+| Test Case | Username length | Password length |         Expected Output        |
+|:---------:|:---------------:|:---------------:|:------------------------------:|
+|     1     |     (-∞，1)     |     (-∞, 6)     |  Invalid Username and Password |
+|     2     |     (-∞，1)     |      [6, 15]    |        Invalid Username        |
+|     3     |     (-∞，1)     |     (15,+∞)     |  Invalid Username and Password |
+|     4     |     [1, 15]     |     (-∞, 6)     |        Invalid Password        |
+|     5     |     [1, 15]     |      [6, 15]    |     User added successfully    |
+|     6     |     [1, 15]     |     (15, +∞)    |        Invalid Password        |
+|     7     |     (15, +∞)    |     (-∞, 6)     |  Invalid Username and Password |
+|     8     |     (15, +∞)    |      [6, 15]    |        Invalid Username        |
+|     9     |     (15, +∞)    |     (15, +∞)    |  Invalid Username and Password |
+
 
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
