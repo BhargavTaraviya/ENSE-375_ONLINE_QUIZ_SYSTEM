@@ -50,7 +50,7 @@ Here is the table for AddUser method:
 
 Here is the table for TakeQuiz method:
 |     Test Case    |     Test Description          |     Quiz Available    |     Selected Quiz           |     User Answers       |     Expected Result           |      Expected Result                            |
-|------------------|-------------------------------|-----------------------|-----------------------------|------------------------|-------------------------------|-------------------------------------------------|
+|:----------------:|:-----------------------------:|:---------------------:|:---------------------------:|:----------------------:|:-----------------------------:|:-----------------------------------------------:|
 | 1                |     Take a quiz with valid selections              |     Yes        |     Valid Quiz         |     All Correct     |     Display score with all   correct answers   |     Quiz created successfully |
 | 2                |     Take a quiz with valid selections and some wrong answers   |     Yes    |     Valid Quiz   |     Some Correct |     Display score with some correct answers     |     Quiz created successfully  |
 | 3                |     Select a quiz that does not exist     |     No  |     Invalid Quiz       |     -       |     Display "Invalid quiz   number" message      |     Quiz created successfully                     |
