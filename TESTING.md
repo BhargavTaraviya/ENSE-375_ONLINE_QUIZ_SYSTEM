@@ -64,6 +64,53 @@ Here is the table for TakeQuiz method:
 | 11               |     Create a quiz with no title                                        |                       |     1                       |     1                  |     0                                            |     Quiz created successfully                                      |
 | 12               |     Create a quiz with valid   title, maximum questions and options    |     Valid Title       |     20                      |     4                  |     3                                            |     Quiz created successfully                                      |                                             
 
+# Decision Table Testing
+
+## Conditions:
+1.	Username length <= 15
+2.	Username length > 15
+3.	Username does not contain special characters
+4.	Username contains special characters
+5.	Username is unique
+6.	Username is not unique
+7.	Password length >= 6
+8.	Password length < 6
+9.	Password length <= 15
+10.	Password length > 15
+## Actions:
+1.	Prompt for new username
+2.	Notify "Username cannot be longer than 15 characters."
+3.	Notify "Username cannot contain special characters."
+4.	Notify "A user with this username already exists."
+5.	Prompt for new password
+6.	Notify "Password must be at least 6 characters long."
+7.	Notify "Password cannot be longer than 15 characters."
+8.	Add new user
+9.	Notify "User added successfully."
+
+Here is the Decision Table for AddUser method
+## Conditions:
+|                      Conditions                  |     Rule 1 |     Rule 2 |     Rule 3 |     Rule 4 |     Rule 5 |     Rule 6 |
+|:------------------------------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|                 Username length <= 15            |      F     |      T     |      T     |      T     |      T     |      T     |
+|     Username does not contain special characters |            |      F     |      T     |      T     |      T     |      T     |
+|                  Username is unique              |            |      -     |      F     |      T     |      T     |      T     |
+|               Password length >= 6               |            |      -     |      -     |      F     |      T     |      T     |
+|               Password length <= 15              |            |      -     |      -     |      -     |      F     |      T     |
+
+## Actions: 
+|                         Actions                        |     Rule   1    |     Rule   2    |     Rule   3    |     Rule   4    |     Rule   5    |     Rule   6    |
+|:------------------------------------------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|                 Prompt for new username                |        X        |        X        |        X        |                 |                 |                 |
+| Notify "Username cannot be longer than 15 characters." |        X        |                 |                 |                 |                 |                 |
+|  Notify "Username cannot contain special characters."  |                 |        X        |                 |                 |                 |                 |
+|   Notify "A user with this username already exists."   |                 |                 |        X        |                 |                 |                 |
+|                 Prompt for new password                |                 |                 |                 |        X        |        X        |                 |
+|  Notify "Password must be at least 6 characters long." |                 |                 |                 |        X        |                 |                 |
+| Notify "Password cannot be longer than 15 characters." |                 |                 |                 |                 |        X        |                 |
+|                      Add new user                      |                 |                 |                 |                 |                 |        X        |
+|            Notify "User added successfully."           |                 |                 |                 |                 |                 |        X        |
+
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
 ![Data Flow Diagram](Documents/Data_Flow_Diagram.pdf)
