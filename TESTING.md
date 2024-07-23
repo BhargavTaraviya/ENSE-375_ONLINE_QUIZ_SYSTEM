@@ -112,8 +112,8 @@ Here is the Decision Table for **AddUser** class
 |            Notify "User added successfully."           |                 |                 |                 |                 |                 |        X        |
 
 # Equivalence Class Testing
-For simplicity, we just consider conditions about username length and password length, and we are going to use Strong Robust ECT.
-Username: (-∞，1), [1, 15], (15, +∞)
+For simplicity, we just consider conditions about username length and password length, and we are going to use Strong Robust ECT.  
+Username: (-∞，1), [1, 15], (15, +∞)  
 Password: (-∞, 6), [6, 15], (15, +∞)
 
 Here is the table for **AddUser** Class: 
