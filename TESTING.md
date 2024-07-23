@@ -35,3 +35,7 @@ Here is the table for AddUser:
 
 # Use Case Testing
 ##
+
+# Data Flow Testing
+A data flow testing diagram is created to show the flow of data in our online quiz system
+![Data Flow Diagram](Documents/Data_Flow_Diagram.pdf)
