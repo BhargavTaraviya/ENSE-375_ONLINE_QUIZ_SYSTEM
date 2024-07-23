@@ -17,7 +17,7 @@
 4.	Verify that appropriate error messages are displayed for invalid inputs.
 5.	Verify that the user is added successfully for valid inputs.
 
-Here is the table for AddUser method:
+Here is the table for AddUser class:
 
 |     Test Case    |                  Test Description                 |     Username Length    |     Password Length    |     Username Contains Special Character    |                    Expected Result                   |
 |:----------------:|:-------------------------------------------------:|:----------------------:|:----------------------:|:------------------------------------------:|:---------------------------------------------------:|
@@ -48,7 +48,7 @@ Here is the table for AddUser method:
 1.	The system should provide feedback messages for invalid inputs.
 2.	The system should handle the quiz selection and question answering smoothly.
 
-Here is the table for TakeQuiz method:
+Here is the table for TakeQuiz class:
 |     Test Case    |     Test Description          |     Quiz Available    |     Selected Quiz           |     User Answers       |     Expected Result           |      Expected Result                            |
 |:----------------:|:-----------------------------:|:---------------------:|:---------------------------:|:----------------------:|:-----------------------------:|:-----------------------------------------------:|
 | 1                |     Take a quiz with valid selections              |     Yes        |     Valid Quiz         |     All Correct     |     Display score with all   correct answers   |     Quiz created successfully |
@@ -88,7 +88,7 @@ Here is the table for TakeQuiz method:
 8.	Add new user
 9.	Notify "User added successfully."
 
-Here is the Decision Table for AddUser method
+Here is the Decision Table for AddUser class
 ## Conditions:
 |                      Conditions                        |     Rule 1 |     Rule 2 |     Rule 3 |     Rule 4 |     Rule 5 |     Rule 6 |
 |:------------------------------------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -111,6 +111,16 @@ Here is the Decision Table for AddUser method
 |                      Add new user                      |                 |                 |                 |                 |                 |        X        |
 |            Notify "User added successfully."           |                 |                 |                 |                 |                 |        X        |
 
+# Equivalence Class Testing
+
+
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
 ![Data Flow Diagram](Documents/Data_Flow_Diagram.pdf)
+
+# Unit Testing
+With unit testing, we can test individual classes and their methods in isolation. We tested classes including **User**, UserManager, Authentication, Question, Quiz, and QuestionManager.
+
+# Integration Testing
+The parts in the online quiz system are tested in a group to see how they interact with each other. The classes tested are AddUser, CreateQuiz, EditQuiz, DeleteQuiz, HandleLogin, ShowAdminMenu, ShowUserMenu, TakeQuiz, and ViewQuizzes. 
+![Link for Unit Testing and Integration Testing](Testing/CompleteQuizSystemTestSuite.java)Testing/CompleteQuizSystemTestSuite.java
