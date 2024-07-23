@@ -112,7 +112,9 @@ Here is the Decision Table for AddUser class
 |            Notify "User added successfully."           |                 |                 |                 |                 |                 |        X        |
 
 # Equivalence Class Testing
-
+For simplicity, we just consider conditions about username length and password length.  
+Username: <span style="color:red">(-∞，1), [1, 15], (15, +∞)  </span>
+Password: (-∞, 6), [6,15], (15,+∞)
 
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
@@ -122,5 +124,6 @@ A data flow testing diagram is created to show the flow of data in our online qu
 With unit testing, we can test individual classes and their methods in isolation. We tested classes including **User**, **UserManager**, **Authentication**, **Question**, **Quiz**, and **QuestionManager**.
 
 # Integration Testing
-The parts in the online quiz system are tested in a group to see how they interact with each other. The classes tested are **AddUser**, **CreateQuiz**, **EditQuiz**, **DeleteQuiz**, **HandleLogin**, **ShowAdminMenu**, **ShowUserMenu**, **TakeQuiz**, and **ViewQuizzes**. 
+The parts in the online quiz system are tested in a group to see how they interact with each other. The classes tested are **AddUser**, **CreateQuiz**, **EditQuiz**, **DeleteQuiz**, **HandleLogin**, **ShowAdminMenu**, **ShowUserMenu**, **TakeQuiz**, and **ViewQuizzes**.  
+
 [Link for Unit Testing and Integration Testing](Testing/CompleteQuizSystemTestSuite.java)Testing/CompleteQuizSystemTestSuite.java
