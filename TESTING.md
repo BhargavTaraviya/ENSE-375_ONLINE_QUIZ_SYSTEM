@@ -116,11 +116,11 @@ Here is the Decision Table for AddUser class
 
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
-![Data Flow Diagram](Documents/Data_Flow_Diagram.pdf)
+[Data Flow Diagram](Documents/Data_Flow_Diagram.pdf)
 
 # Unit Testing
 With unit testing, we can test individual classes and their methods in isolation. We tested classes including **User**, **UserManager**, **Authentication**, **Question**, **Quiz**, and **QuestionManager**.
 
 # Integration Testing
 The parts in the online quiz system are tested in a group to see how they interact with each other. The classes tested are **AddUser**, **CreateQuiz**, **EditQuiz**, **DeleteQuiz**, **HandleLogin**, **ShowAdminMenu**, **ShowUserMenu**, **TakeQuiz**, and **ViewQuizzes**. 
-![Link for Unit Testing and Integration Testing](Testing/CompleteQuizSystemTestSuite.java)Testing/CompleteQuizSystemTestSuite.java
+[Link for Unit Testing and Integration Testing](Testing/CompleteQuizSystemTestSuite.java)Testing/CompleteQuizSystemTestSuite.java
