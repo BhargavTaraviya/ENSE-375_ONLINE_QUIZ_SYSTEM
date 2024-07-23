@@ -6,6 +6,10 @@
 4.	The password must be at least 6 characters long.
 5.	The password must not exceed 15 characters.
 
+## Non-functional Requirements:
+1.	The system should provide feedback messages for invalid inputs.
+2.	The system should successfully add the user if all inputs are valid.
+
 ## Test Requirements for AddUser function:  
 1.	Test the lower and upper boundary values for the username length.
 2.	Test the lower and upper boundary values for the password length.
@@ -13,7 +17,7 @@
 4.	Verify that appropriate error messages are displayed for invalid inputs.
 5.	Verify that the user is added successfully for valid inputs.
 
-Here is the table for AddUser:
+Here is the table for AddUser method:
 
 |     Test Case    |                  Test Description                 |     Username Length    |     Password Length    |     Username Contains Special Character    |                    Expected Result                   |
 |:----------------:|:-------------------------------------------------:|:----------------------:|:----------------------:|:------------------------------------------:|:---------------------------------------------------:|
@@ -34,7 +38,31 @@ Here is the table for AddUser:
 |        15        |      Username and password just below lower bounds|            0           |            5           |                      No                    |     Username cannot be longer than 15 characters. & Password must be at least 6 characters long.    |
 
 # Use Case Testing
-##
+## Functional Requirements:
+1.	The system must display all available quizzes for the user to choose from.
+2.	The system must allow the user to select a quiz to take.
+3.	The system must display each question of the selected quiz along with its options.
+4.	The user must be able to select one option for each question.
+5.	The system must calculate and display the user's score after completing the quiz.
+## Non-functional Requirements:
+1.	The system should provide feedback messages for invalid inputs.
+2.	The system should handle the quiz selection and question answering smoothly.
+
+Here is the table for TakeQuiz method:
+|     Test Case    |     Test Description          |     Quiz Available    |     Selected Quiz           |     User Answers       |     Expected Result           |      Expected Result                            |
+|------------------|-------------------------------|-----------------------|-----------------------------|------------------------|-------------------------------|-------------------------------------------------|
+| 1                |     Take a quiz with valid selections              |     Yes        |     Valid Quiz         |     All Correct     |     Display score with all   correct answers   |     Quiz created successfully |
+| 2                |     Take a quiz with valid selections and some wrong answers   |     Yes    |     Valid Quiz   |     Some Correct |     Display score with some correct answers     |     Quiz created successfully  |
+| 3                |     Select a quiz that does not exist     |     No  |     Invalid Quiz       |     -       |     Display "Invalid quiz   number" message      |     Quiz created successfully                     |
+| 4                |     Attempt to take a quiz with no quizzes available     |     No                |     -             |     -        |     Display "No quizzes available" message    |     Quiz created successfully    |
+| 5                |     Take a quiz and provide out-of-range option index     |     Yes       |     Valid Quiz       |     Out-of-Range     |     Display error message for invalid option  | Please enter a valid number   of questions (1 to 20). |
+| 6                |     Take a quiz and do not   answer all questions     |     Yes     |     Valid Quiz        |     Partial Answers   |     Display score for answered   questions and skip unanswered    |     Please enter a valid number   of questions (1 to 20).          |
+| 7                |     Take a quiz with mixed   correct and incorrect answers     |     Yes               |     Valid Quiz              |     Mixed Answers      |     Display score with mixed   correct and incorrect answers               |     Please enter a valid number   of options (1 to 4).             |
+| 8                |     Take a quiz, exit midway,   and then complete the quiz             |     Yes               |     Valid Quiz              |     Complete Midway    |     Allow resuming and   completing the quiz with final score displayed    |     Please enter a valid number   of options (1 to 4).             |
+| 9                |     Take a quiz with a single   question                               |     Yes               |     Single Question Quiz    |     Correct Answer     |     Display score for the   single question     |     Correct answer index must   be within the range of options.    |
+| 10               |     Take a quiz with maximum   questions                               |     Yes               |     Max Questions Quiz      |     Mixed Answers      |     Display score for all quest                 |     Quiz created successfully                                      |
+| 11               |     Create a quiz with no title                                        |                       |     1                       |     1                  |     0                                            |     Quiz created successfully                                      |
+| 12               |     Create a quiz with valid   title, maximum questions and options    |     Valid Title       |     20                      |     4                  |     3                                            |     Quiz created successfully                                      |                                             
 
 # Data Flow Testing
 A data flow testing diagram is created to show the flow of data in our online quiz system
