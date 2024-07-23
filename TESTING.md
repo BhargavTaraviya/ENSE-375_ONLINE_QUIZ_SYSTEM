@@ -90,13 +90,13 @@ Here is the table for TakeQuiz method:
 
 Here is the Decision Table for AddUser method
 ## Conditions:
-|                      Conditions                  |     Rule 1 |     Rule 2 |     Rule 3 |     Rule 4 |     Rule 5 |     Rule 6 |
-|:------------------------------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|                 Username length <= 15            |      F     |      T     |      T     |      T     |      T     |      T     |
-|     Username does not contain special characters |            |      F     |      T     |      T     |      T     |      T     |
-|                  Username is unique              |            |      -     |      F     |      T     |      T     |      T     |
-|               Password length >= 6               |            |      -     |      -     |      F     |      T     |      T     |
-|               Password length <= 15              |            |      -     |      -     |      -     |      F     |      T     |
+|                      Conditions                        |     Rule 1 |     Rule 2 |     Rule 3 |     Rule 4 |     Rule 5 |     Rule 6 |
+|:------------------------------------------------------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|                 Username length <= 15                  |      F     |      T     |      T     |      T     |      T     |      T     |
+|     Username does not contain special characters       |            |      F     |      T     |      T     |      T     |      T     |
+|                  Username is unique                    |            |      -     |      F     |      T     |      T     |      T     |
+|               Password length >= 6                     |            |      -     |      -     |      F     |      T     |      T     |
+|               Password length <= 15                    |            |      -     |      -     |      -     |      F     |      T     |
 
 ## Actions: 
 |                         Actions                        |     Rule   1    |     Rule   2    |     Rule   3    |     Rule   4    |     Rule   5    |     Rule   6    |
