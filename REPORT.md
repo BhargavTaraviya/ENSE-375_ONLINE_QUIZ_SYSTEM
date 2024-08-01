@@ -223,90 +223,90 @@ Agenda: Design Requirements and Constraints Discussion
 
 Time: June 6, 2024: 2pm to 4pm  \
 Agenda: Brainstorming of Solutions and distribution of Solution 1 Tasks
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                Previous Task               | Completion State |                         Next Task                     |
+|:---------------------------------------:|:------------------------------------------:|:----------------:|:-----------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Define requirements                    |     100%         |     Brainstorm Solution and write codes for solution1 |
+|     Bhargav Taraviya                    |     Define requirements and constraints    |     100%         |     Brainstorm Solution and write codes for solution1 |
+|     Yi Xu                               |     Define   constraints                   |     100%         |     Brainstorm Solution                               |
 
 ## <a name="_toc43885142"></a>4.4 &nbsp;Meeting 4
 
 Time: June 13, 2024: 2pm to 5pm  \
 Agenda: Review of Solution 1 Progress and Distribution of Solution 2 Tasks
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                       Previous Task                      | Completion State |                            Next Task    |
+|:---------------------------------------:|:--------------------------------------------------------:|:----------------:|:---------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Brainstorm Solution and write codes for solution1    |     100%         |     Evaluate Solution1 and write codes for Solution 2           |
+|     Bhargav Taraviya                    |     Brainstorm Solution and write codes for solution1    |     100%         |     Evaluate Solution1 and write codes for Solution 2           |
+|     Yi Xu                               |     Brainstorm   Solution                                |     100%         |     Evaluate   Solution 1 and Check Markdown Document syntax    |
 
 ## <a name="_toc43885143"></a>4.5 &nbsp;Meeting 5
 
 Time: June 20, 2024: 2pm to 4pm  \
 Agenda: Review of Solution 2 Progress
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                          Previous Task                          | Completion State |                             Next Task                            |
+|:---------------------------------------:|:---------------------------------------------------------------:|:----------------:|:----------------------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Evaluate Solution1 and write codes for Solution 2           |     80%          |     Complete Solution 2                                          |
+|     Bhargav Taraviya                    |     Evaluate Solution1 and write codes for Solution 2           |     80%          |     Complete Solution 2                                          |
+|     Yi Xu                               |     Evaluate   Solution 1 and Check Markdown Document syntax    |     90%          |     Documentation   for everything before Week 7 in REPORT.md    |
 
 ## <a name="_toc43885144"></a>4.6 &nbsp;Meeting 6
 
 Time: June 27, 2024: 2pm to 4pm  \
 Agenda: Final Solution Discussion
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                           Previous Task                          | Completion State |                   Next Task                  |
+|:---------------------------------------:|:----------------------------------------------------------------:|:----------------:|:--------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Complete Solution 2                                          |     100%         |     Think about final solution features      |
+|     Bhargav Taraviya                    |     Complete Solution 2                                          |     100%         |     Think about testing                      |
+|     Yi Xu                               |     Documentation   for everything before Week 7 in REPORT.md    |     100%         |     Think   about final solution features    |
 
 ## <a name="_toc43885145"></a>4.7 &nbsp;Meeting 7
 
 Time: July 4, 2024: 2pm to 4pm  \
 Agenda: Distribution of Final Solution Tasks
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                 Previous Task                | Completion State |                     Next Task                     |
+|:---------------------------------------:|:--------------------------------------------:|:----------------:|:-------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Think about final solution features      |     100%         |     Write codes for Final solution and testing    |
+|     Bhargav Taraviya                    |     Think about testing                      |     100%         |     Write codes for Final solution                |
+|     Yi Xu                               |     Think   about final solution features    |     100%         |     Provide   feedback on Final solution          |
 
 ## <a name="_toc43885146"></a>4.8 &nbsp;Meeting 8
 
 Time: July 11, 2024: 2pm to 4pm  \
 Agenda: Review of Final Solution Progress
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                    Previous Task                    | Completion State |                                    Next Task                                   |
+|:---------------------------------------:|:---------------------------------------------------:|:----------------:|:------------------------------------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Write codes for final solution 2 and testing    |     50%          |     Write codes for final solution and testing                                 |
+|     Bhargav Taraviya                    |     Write codes for final solution                  |     50%          |     Write codes for final solution                                             |
+|     Yi Xu                               |     Provide   feedback on final solution            |     60%          |     Provide   feedback on final solution and do documentation for REPORT.md    |
 ## <a name="_toc43885147"></a>4.9 &nbsp;Meeting 9
 
 Time: July 18, 2024: 2pm to 4pm  \
 Agenda: Review of Final Solution Progress
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                                  Previous Task                                 | Completion State |                         Next Task                        |
+|:---------------------------------------:|:------------------------------------------------------------------------------:|:----------------:|:--------------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Write codes for final solution and testing                                 |     80%          |     Complete final solution and testing                  |
+|     Bhargav Taraviya                    |     Write codes for final solution                                             |     85%          |     Complete final solution                              |
+|     Yi Xu                               |     Provide feedback   on final solution and do documentation for REPORT.md    |     70%          |     Complete   REPORT.md and TESTING.md documentation    |
 
 ## <a name="_toc43885148"></a>4.10 &nbsp;Meeting 10
 
 Time: July 25, 2024: 2pm to 4pm  \
 Agenda: Distribution of presentation Tasks
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                       Previous Task                      | Completion State |                                  Next Task                                 |
+|:---------------------------------------:|:--------------------------------------------------------:|:----------------:|:--------------------------------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Complete final solution and testing                  |     100%         |     Prepare for presentation and make slides for presentation                 |
+|     Bhargav Taraviya                    |     Complete final solution                              |     100%         |     Prepare for presentation                                               |
+|     Yi Xu                               |     Complete   REPORT.md and TESTING.md documentation    |     100%         |     Complete   REPORT.md documentation and make slides for presentation    |
 
 ## <a name="_toc43885149"></a>4.11 &nbsp;Meeting 11
 
 Time: August 1, 2024: 12:30pm to 3pm  \
 Agenda: Presentation Recording
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |                                Previous Task                               | Completion State |                          Next Task                         |
+|:---------------------------------------:|:--------------------------------------------------------------------------:|:----------------:|:----------------------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Prepare for presentation and make slides for presentation                                              |     90%         |     Complete presentation recording                        |
+|     Bhargav Taraviya                    |     Prepare for presentation                                               |     100%         |     Complete presentation recording                        |
+|     Yi Xu                               |     Complete   REPORT.md documentation and Make slides for presentation    |     100%         |     Complete   presentation recording and all documentation    |
 
 # <a name="_toc43885150"></a>**5 &nbsp;Project Management**
 Here is the Gantt Chart showing the work progress:
