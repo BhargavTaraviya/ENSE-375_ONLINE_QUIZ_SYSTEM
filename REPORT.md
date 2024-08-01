@@ -220,10 +220,19 @@ Agenda:
 | Yi Xu                          |               |                  |           |
 
 # <a name="_toc43885143"></a>**5 &nbsp;Project Management**
+Here is the Gantt Chart showing the work progress:
 ![Gantt_Chart](Documents/Gantt_Chart.png)
 * Weekends are excluded from the schedule.
 * Testing is integrated throughout the coding process.
 # <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
+For ENSE 375 project, we learned a lot about how to design and develop a software step by step, and we understood software testing in a better way with a real project created by ourselves. Here are the design functions and objectives we have done: 
+- Login system which can identify admins and regular users.
+- Admins that can create, delete, edit and view quizzes.
+- Quiz system that allows adding questions with many options.
+- Testing system that provides notifications to users.
+- Users that can take quiz and view quiz results.
+
+For future work, a graphical user interface can be implemented for better user experience. Also, animations can be added relating to the quiz score. 
 
 # <a name="_toc43885145"></a>**7 &nbsp;References**
 
