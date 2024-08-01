@@ -221,7 +221,8 @@ Agenda:
 
 # <a name="_toc43885143"></a>**5 &nbsp;Project Management**
 ![Gantt_Chart](Documents/Gantt_Chart.png)
-
+* Weekends are excluded from the schedule.
+* Testing is integrated throughout the coding process.
 # <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
 
 # <a name="_toc43885145"></a>**7 &nbsp;References**
