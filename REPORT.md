@@ -213,11 +213,11 @@ Agenda: Problem Definition Discussion
 
 Time: May 30, 2024: 2pm to 4pm  \
 Agenda: Design Requirements and Constraints Discussion
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|               Team Member               |        Previous Task        | Completion State |                  Next Task                 |
+|:---------------------------------------:|:---------------------------:|:----------------:|:------------------------------------------:|
+|     Trupalkumar   Dharmeshbhai Ukani    |     Define the problem      |     100%         |     Define requirements                    |
+|     Bhargav Taraviya                    |     Define the problem      |     100%         |     Define requirements and constraints    |
+|     Yi Xu                               |     Define the   problem    |     100%         |     Define   constraints                   |
 
 ## <a name="_toc43885141"></a>4.3 &nbsp;Meeting 3
 
