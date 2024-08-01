@@ -72,6 +72,7 @@
 
 ## List of Figures
 [1. Block Diagram](#_Toc43885152)  
+
 [2. Gantt Chart](#_Toc43885153)
 ## List of Tables
 [1. Solution Comparison Table](#_Toc43885154)
