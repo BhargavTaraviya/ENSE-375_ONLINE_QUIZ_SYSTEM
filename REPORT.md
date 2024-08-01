@@ -222,6 +222,7 @@ Agenda:
 # <a name="_toc43885143"></a>**5 &nbsp;Project Management**
 Here is the Gantt Chart showing the work progress:
 ![Gantt_Chart](Documents/Gantt_Chart.jpg)
+* The critical path is in red, and the slack is the black lines connected to non-critical activities.
 * Weekends are excluded from the schedule.
 * Testing is integrated throughout the coding process.
 # <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
