@@ -64,6 +64,7 @@
 ## List of Tables
 
 Table1 ............................Solution Comparison
+[1. Solution Comparison Table](#_Toc43885149)
 
 # <a name="_toc43885122"></a>**1 &nbsp;Introduction**
 - This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
@@ -149,6 +150,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
 In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system. The table below shows the comparision among solutions of different versions. 
+<a name="_toc43885149"></a>
 | Functionalities/Solutions | Solution 1 | Solution 2 | Final Solution |
 |:-------------------------:|:----------:|:----------:|:--------------:|
 |        Login System       |      ✓     |      ✓     |        ✓       |
