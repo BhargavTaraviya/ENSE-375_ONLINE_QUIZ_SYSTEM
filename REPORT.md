@@ -160,7 +160,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
 In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system. The table below shows the comparision among solutions of different versions. 
-<a name="_toc43885153"></a>
+<a name="_toc43885154"></a>
 | Functionalities/Solutions | Solution 1 | Solution 2 | Final Solution |
 |:-------------------------:|:----------:|:----------:|:--------------:|
 |        Login System       |      ✓     |      ✓     |        ✓       |
