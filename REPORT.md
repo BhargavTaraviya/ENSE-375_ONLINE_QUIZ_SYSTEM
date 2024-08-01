@@ -51,19 +51,30 @@
 
 [4.4 Meeting 4](#_Toc43885142)
 
-[5 Project Management](#_Toc43885143)
+[4.5 Meeting 5](#_Toc43885143)
 
-[6 Conclusion and Future Work ](#_Toc43885144)
+[4.6 Meeting 6](#_Toc43885144)
 
-[7 References](#_Toc43885145)
+[4.7 Meeting 7](#_Toc43885145)
 
-[8 Appendix](#_Toc43885146)
+[4.8 Meeting 8](#_Toc43885146)
+
+[4.9 Meeting 9](#_Toc43885147)
+
+[4.10 Meeting 10](#_Toc43885148)
+
+[4.11 Meeting 11](#_Toc43885149)
+
+
+[5 Project Management](#_Toc43885150)
+
+[6 Conclusion and Future Work ](#_Toc43885151)
 
 ## List of Figures
-[1. Block Diagram](#_Toc43885147)  
-[2. Gantt Chart](#_Toc43885148)
+[1. Block Diagram](#_Toc43885152)  
+[2. Gantt Chart](#_Toc43885153)
 ## List of Tables
-[1. Solution Comparison Table](#_Toc43885149)
+[1. Solution Comparison Table](#_Toc43885154)
 
 # <a name="_toc43885122"></a>**1 &nbsp;Introduction**
 - This project focuses on designing and developing the Interactive Quiz System, a Java-based application for creating and managing quizzes. Our goal is to simplify the process of quiz administration so users can take and manage quizzes easily. Since traditional paper quizzes are time-consuming for feedback, and hard to save for long time, we are motivated to provide this quiz system for effective quiz management that benefits users. 
@@ -149,7 +160,7 @@ While this solution was a good improvement over Solution 1, it still had some li
 
 ## <a name="_toc43885132"></a>3.3 &nbsp;Final Solution
 In the final solution, the validations for username and password are implemented. For quiz creation, admins will see error messages if any issues exist. The final solution contains all basic functionalities needed for an online quiz system. The table below shows the comparision among solutions of different versions. 
-<a name="_toc43885149"></a>
+<a name="_toc43885153"></a>
 | Functionalities/Solutions | Solution 1 | Solution 2 | Final Solution |
 |:-------------------------:|:----------:|:----------:|:--------------:|
 |        Login System       |      ✓     |      ✓     |        ✓       |
@@ -162,7 +173,7 @@ In the final solution, the validations for username and password are implemented
 
 Table 1 - Solution Comparison Table
 ### <a name="_toc43885133"></a>3.3.1 Components
-<a name="_toc43885147"></a>
+<a name="_toc43885152"></a>
 In our solution, the components include Authentication system, Admins, Users, User Management, Quiz Management, Question Management and Quiz Execution. 
 
 ![Block Diagram](Documents/Block_Diagram.png)
@@ -228,15 +239,84 @@ Agenda:
 | Bhargav Taraviya               |               |                  |           |
 | Yi Xu                          |               |                  |           |
 
-# <a name="_toc43885143"></a>**5 &nbsp;Project Management**
+## <a name="_toc43885143"></a>4.5 &nbsp;Meeting 5
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+## <a name="_toc43885144"></a>4.6 &nbsp;Meeting 6
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+## <a name="_toc43885145"></a>4.7 &nbsp;Meeting 7
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+## <a name="_toc43885146"></a>4.8 &nbsp;Meeting 8
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+## <a name="_toc43885147"></a>4.9 &nbsp;Meeting 9
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+## <a name="_toc43885148"></a>4.10 &nbsp;Meeting 10
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+## <a name="_toc43885149"></a>4.11 &nbsp;Meeting 11
+
+Time:  
+Agenda:
+| Team Member                    | Previous Task | Completion State | Next Task |
+|--------------------------------|---------------|------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
+| Bhargav Taraviya               |               |                  |           |
+| Yi Xu                          |               |                  |           |
+
+# <a name="_toc43885150"></a>**5 &nbsp;Project Management**
 Here is the Gantt Chart showing the work progress:
-<a name="_toc43885148"></a>
+<a name="_toc43885153"></a>
 ![Gantt_Chart](Documents/Gantt_Chart.jpg)
 Figure 2 - Gantt Chart
 * The critical path is in red, and the slack is the black lines connected to non-critical activities.
 * Weekends are excluded from the schedule.
 * Testing is integrated throughout the coding process.
-# <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
+# <a name="_toc43885151"></a>**6 &nbsp;Conclusion and Future Work**
 For ENSE 375 project, we learned a lot about how to design and develop a software step by step, and we understood software testing in a better way with a real project created by ourselves. Here are the design functions and objectives we have done: 
 - Login system which can identify admins and regular users.
 - Admins that can create, delete, edit and view quizzes.
@@ -245,9 +325,6 @@ For ENSE 375 project, we learned a lot about how to design and develop a softwar
 - Users that can take quiz and view quiz results.
 
 For future work, a graphical user interface can be implemented for better user experience. Also, animations can be added relating to the quiz score. 
-
-# <a name="_toc43885145"></a>**7 &nbsp;References**
-
 
 
 
