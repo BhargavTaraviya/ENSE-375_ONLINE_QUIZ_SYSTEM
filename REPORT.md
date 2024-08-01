@@ -162,10 +162,11 @@ In the final solution, the validations for username and password are implemented
 
 Table 1 - Solution Comparison Table
 ### <a name="_toc43885133"></a>3.3.1 Components
+<a name="_toc43885147"></a>
 In our solution, the components include Authentication system, Admins, Users, User Management, Quiz Management, Question Management and Quiz Execution. 
 
-<a name="_toc43885147"></a>
 ![Block Diagram](Documents/Block_Diagram.png)
+Figure 1 - Block Diagram
 ### <a name="_toc43885134"></a>3.3.2 Features
 - User Authentication: While logging in, show different menus for admins and users
 - Add new user: Admins can add users by providing username and password that can pass the validation
@@ -230,6 +231,7 @@ Agenda:
 Here is the Gantt Chart showing the work progress:
 <a name="_toc43885148"></a>
 ![Gantt_Chart](Documents/Gantt_Chart.jpg)
+Figure 2 - Gantt Chart
 * The critical path is in red, and the slack is the black lines connected to non-critical activities.
 * Weekends are excluded from the schedule.
 * Testing is integrated throughout the coding process.
