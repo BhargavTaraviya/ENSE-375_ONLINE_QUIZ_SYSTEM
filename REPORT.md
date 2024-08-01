@@ -203,11 +203,11 @@ Detailed information about testing are provided in [TESTING.md](TESTING.md) file
 
 Time: May 24, 2024: 9am to 11am  \
 Agenda: Problem Definition Discussion
-| Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|------------------|---------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |     N/A          |      N/A            |    Define the problem       |
-| Bhargav Taraviya               |     N/A          |      N/A            |   Define the problem        |
-| Yi Xu                          |     N/A          |      N/A            |    Define the problem       |
+|           Team Member          | Previous Task | Completion State |      Next Task     |
+|:------------------------------:|:-------------:|:----------------:|:------------------:|
+| Trupalkumar Dharmeshbhai Ukani |      N/A      |        N/A       | Define the problem |
+|        Bhargav Taraviya        |      N/A      |        N/A       | Define the problem |
+|              Yi Xu             |      N/A      |        N/A       | Define the problem |
 
 ## <a name="_toc43885140"></a>4.2 &nbsp;Meeting 2
 
