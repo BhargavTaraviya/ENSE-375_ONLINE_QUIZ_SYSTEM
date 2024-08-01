@@ -306,7 +306,7 @@ Agenda: Presentation Recording
 |:---------------------------------------:|:--------------------------------------------------------------------------:|:----------------:|:----------------------------------------------------------:|
 |     Trupalkumar   Dharmeshbhai Ukani    |     Prepare for presentation and make slides for presentation                                              |     90%         |     Complete presentation recording                        |
 |     Bhargav Taraviya                    |     Prepare for presentation                                               |     100%         |     Complete presentation recording                        |
-|     Yi Xu                               |     Complete   REPORT.md documentation and Make slides for presentation    |     100%         |     Complete   presentation recording and all documentation    |
+|     Yi Xu                               |     Complete   REPORT.md documentation and Make slides for presentation    |     90%         |     Complete   presentation recording and all documentation    |
 
 # <a name="_toc43885150"></a>**5 &nbsp;Project Management**
 Here is the Gantt Chart showing the work progress:
