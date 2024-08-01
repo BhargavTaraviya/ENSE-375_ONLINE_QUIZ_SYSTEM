@@ -62,8 +62,6 @@
 ## List of Figures
 
 ## List of Tables
-
-Table1 ............................Solution Comparison
 [1. Solution Comparison Table](#_Toc43885149)
 
 # <a name="_toc43885122"></a>**1 &nbsp;Introduction**
@@ -160,6 +158,7 @@ In the final solution, the validations for username and password are implemented
 |       Quiz Execution      |            |      ✓     |        ✓       |
 |        Quiz Edition       |            |      ✓     |        ✓       |
 |      Input Validation     |            |            |        ✓       |
+Table 1 - Solution Comparison Table
 ### <a name="_toc43885133"></a>3.3.1 Components
 In our solution, the components include Authentication system, Admins, Users, User Management, Quiz Management, Question Management and Quiz Execution. 
 
