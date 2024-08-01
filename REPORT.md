@@ -158,6 +158,7 @@ In the final solution, the validations for username and password are implemented
 |      Input Validation     |            |            |        ✓       |
 ### <a name="_toc43885133"></a>3.3.1 Components
 In our solution, the components include Authentication system, Admins, Users, User Management, Quiz Management, Question Management and Quiz Execution. 
+
 ![Block Diagram](Documents/Block_Diagram.png)
 ### <a name="_toc43885134"></a>3.3.2 Features
 - User Authentication: While logging in, show different menus for admins and users
