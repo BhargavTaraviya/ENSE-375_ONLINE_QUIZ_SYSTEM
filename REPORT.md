@@ -198,7 +198,7 @@ Detailed information about testing are provided in [TESTING.md](TESTING.md) file
 - Lack of User Review: Users can not review the results of the quizzes they have taken before
 - Weak User feedback: Users got an instant feedback which shows the mark they got, but they don't know the specific questions are right or wrong
 # <a name="_toc43885138"></a>**4 &nbsp;Team Work**
-Here are the weekly meeting records:
+### Here are the weekly meeting records:
 ## <a name="_toc43885139"></a>4.1 &nbsp;Meeting 1
 
 Time: May 24, 2024: 9am to 11am  \
