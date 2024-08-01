@@ -201,18 +201,18 @@ Detailed information about testing are provided in [TESTING.md](TESTING.md) file
 
 ## <a name="_toc43885139"></a>4.1 &nbsp;Meeting 1
 
-Time: Month Date, Year, hour: minutes am/pm to hour: minutes am/pm  
-Agenda:
+Time: May 24, 2024: 9am to 11am
+Agenda: Problem Definition Discussion
 | Team Member                    | Previous Task | Completion State | Next Task |
-|--------------------------------|---------------|------------------|-----------|
-| Trupalkumar Dharmeshbhai Ukani |               |                  |           |
-| Bhargav Taraviya               |               |                  |           |
-| Yi Xu                          |               |                  |           |
+|--------------------------------|------------------|---------------------|-----------|
+| Trupalkumar Dharmeshbhai Ukani |     N/A          |      N/A            |    Define the problem       |
+| Bhargav Taraviya               |     N/A          |      N/A            |   Define the problem        |
+| Yi Xu                          |     N/A          |      N/A            |    Define the problem       |
 
 ## <a name="_toc43885140"></a>4.2 &nbsp;Meeting 2
 
-Time:  
-Agenda:
+Time: May 30, 2024: 2pm to 4pm
+Agenda: Design Requirements and Constraints Discussion
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -221,8 +221,8 @@ Agenda:
 
 ## <a name="_toc43885141"></a>4.3 &nbsp;Meeting 3
 
-Time:  
-Agenda:
+Time: June 6, 2024: 2pm to 4pm
+Agenda: Brainstorming of Solutions and distribution of Solution 1 Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -231,8 +231,8 @@ Agenda:
 
 ## <a name="_toc43885142"></a>4.4 &nbsp;Meeting 4
 
-Time:  
-Agenda:
+Time: June 13, 2024: 2pm to 5pm
+Agenda: Review of Solution 1 Progress and Distribution of Solution 2 Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -241,8 +241,8 @@ Agenda:
 
 ## <a name="_toc43885143"></a>4.5 &nbsp;Meeting 5
 
-Time:  
-Agenda:
+Time: June 20, 2024: 2pm to 4pm
+Agenda: Review of Solution 2 Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -251,8 +251,8 @@ Agenda:
 
 ## <a name="_toc43885144"></a>4.6 &nbsp;Meeting 6
 
-Time:  
-Agenda:
+Time: June 27, 2024: 2pm to 4pm
+Agenda: Final Solution Discussion
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -261,8 +261,8 @@ Agenda:
 
 ## <a name="_toc43885145"></a>4.7 &nbsp;Meeting 7
 
-Time:  
-Agenda:
+Time: July 4, 2024: 2pm to 4pm
+Agenda: Distribution of Final Solution Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -271,8 +271,8 @@ Agenda:
 
 ## <a name="_toc43885146"></a>4.8 &nbsp;Meeting 8
 
-Time:  
-Agenda:
+Time: July 11, 2024: 2pm to 4pm
+Agenda: Review of Final Solution Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -280,8 +280,8 @@ Agenda:
 | Yi Xu                          |               |                  |           |
 ## <a name="_toc43885147"></a>4.9 &nbsp;Meeting 9
 
-Time:  
-Agenda:
+Time: July 18, 2024: 2pm to 4pm 
+Agenda: Review of Final Solution Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -290,8 +290,8 @@ Agenda:
 
 ## <a name="_toc43885148"></a>4.10 &nbsp;Meeting 10
 
-Time:  
-Agenda:
+Time: July 25, 2024: 2pm to 4pm
+Agenda: Distribution of presentation Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
@@ -300,8 +300,8 @@ Agenda:
 
 ## <a name="_toc43885149"></a>4.11 &nbsp;Meeting 11
 
-Time:  
-Agenda:
+Time: August 1, 2024: 12:30pm to 3pm
+Agenda: Presentation Recording
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
 | Trupalkumar Dharmeshbhai Ukani |               |                  |           |
