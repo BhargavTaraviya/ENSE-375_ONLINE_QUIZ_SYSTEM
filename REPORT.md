@@ -220,6 +220,7 @@ Agenda:
 | Yi Xu                          |               |                  |           |
 
 # <a name="_toc43885143"></a>**5 &nbsp;Project Management**
+![Gantt_Chart](Documents/Gantt_Chart.png)
 
 # <a name="_toc43885144"></a>**6 &nbsp;Conclusion and Future Work**
 
