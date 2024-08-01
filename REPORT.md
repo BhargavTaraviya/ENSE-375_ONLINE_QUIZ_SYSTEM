@@ -167,7 +167,7 @@ In our solution, the components include Authentication system, Admins, Users, Us
 
 ![Block Diagram](Documents/Block_Diagram.png)
 
-                                            Figure 1 - Block Diagram
+Figure 1 - Block Diagram
 ### <a name="_toc43885134"></a>3.3.2 Features
 - User Authentication: While logging in, show different menus for admins and users
 - Add new user: Admins can add users by providing username and password that can pass the validation
