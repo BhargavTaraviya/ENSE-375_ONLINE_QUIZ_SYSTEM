@@ -241,7 +241,7 @@ Agenda: Review of Solution 1 Progress and Distribution of Solution 2 Tasks
 
 ## <a name="_toc43885143"></a>4.5 &nbsp;Meeting 5
 
-Time: June 20, 2024: 2pm to 4pm
+Time: June 20, 2024: 2pm to 4pm  
 Agenda: Review of Solution 2 Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -251,7 +251,7 @@ Agenda: Review of Solution 2 Progress
 
 ## <a name="_toc43885144"></a>4.6 &nbsp;Meeting 6
 
-Time: June 27, 2024: 2pm to 4pm
+Time: June 27, 2024: 2pm to 4pm  
 Agenda: Final Solution Discussion
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -261,7 +261,7 @@ Agenda: Final Solution Discussion
 
 ## <a name="_toc43885145"></a>4.7 &nbsp;Meeting 7
 
-Time: July 4, 2024: 2pm to 4pm
+Time: July 4, 2024: 2pm to 4pm  
 Agenda: Distribution of Final Solution Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -271,7 +271,7 @@ Agenda: Distribution of Final Solution Tasks
 
 ## <a name="_toc43885146"></a>4.8 &nbsp;Meeting 8
 
-Time: July 11, 2024: 2pm to 4pm
+Time: July 11, 2024: 2pm to 4pm  
 Agenda: Review of Final Solution Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -280,7 +280,7 @@ Agenda: Review of Final Solution Progress
 | Yi Xu                          |               |                  |           |
 ## <a name="_toc43885147"></a>4.9 &nbsp;Meeting 9
 
-Time: July 18, 2024: 2pm to 4pm 
+Time: July 18, 2024: 2pm to 4pm  
 Agenda: Review of Final Solution Progress
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -290,7 +290,7 @@ Agenda: Review of Final Solution Progress
 
 ## <a name="_toc43885148"></a>4.10 &nbsp;Meeting 10
 
-Time: July 25, 2024: 2pm to 4pm
+Time: July 25, 2024: 2pm to 4pm  
 Agenda: Distribution of presentation Tasks
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
@@ -300,7 +300,7 @@ Agenda: Distribution of presentation Tasks
 
 ## <a name="_toc43885149"></a>4.11 &nbsp;Meeting 11
 
-Time: August 1, 2024: 12:30pm to 3pm
+Time: August 1, 2024: 12:30pm to 3pm  
 Agenda: Presentation Recording
 | Team Member                    | Previous Task | Completion State | Next Task |
 |--------------------------------|---------------|------------------|-----------|
