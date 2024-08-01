@@ -275,7 +275,7 @@ Time: July 11, 2024: 2pm to 4pm  \
 Agenda: Review of Final Solution Progress
 |               Team Member               |                    Previous Task                    | Completion State |                                    Next Task                                   |
 |:---------------------------------------:|:---------------------------------------------------:|:----------------:|:------------------------------------------------------------------------------:|
-|     Trupalkumar   Dharmeshbhai Ukani    |     Write codes for final solution 2 and testing    |     50%          |     Write codes for final solution and testing                                 |
+|     Trupalkumar   Dharmeshbhai Ukani    |     Write codes for final solution and testing    |     50%          |     Write codes for final solution and testing                                 |
 |     Bhargav Taraviya                    |     Write codes for final solution                  |     50%          |     Write codes for final solution                                             |
 |     Yi Xu                               |     Provide   feedback on final solution            |     60%          |     Provide   feedback on final solution and do documentation for REPORT.md    |
 ## <a name="_toc43885147"></a>4.9 &nbsp;Meeting 9
