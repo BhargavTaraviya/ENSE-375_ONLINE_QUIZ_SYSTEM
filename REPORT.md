@@ -161,7 +161,7 @@ In our solution, the components include Authentication system, Admins, Users, Us
 ![Block Diagram](Documents/Block_Diagram.png)
 ### <a name="_toc43885134"></a>3.3.2 Features
 - User Authentication: While logging in, show different menus for admins and users
-- Add new user： Admins can add users by providing username and password that can pass the validation
+- Add new user: Admins can add users by providing username and password that can pass the validation
 - View all quizzes: Admins can view the quizzes they have made in the admin menu
 
 ### <a name="_toc43885135"></a>3.3.3 Environmental, Societal, Safety, and Economic Considerations
@@ -236,6 +236,6 @@ For future work, a graphical user interface can be implemented for better user e
 
 # <a name="_toc43885145"></a>**7 &nbsp;References**
 
-# <a name="_toc43885146"></a>**8 &nbsp;Appendix**
+
 
 
