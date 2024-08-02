@@ -70,6 +70,8 @@
 
 [6 Conclusion and Future Work ](#_Toc43885151)
 
+[7 References](#7-references)
+
 ## List of Figures
 [1. Block Diagram](#_Toc43885152)  
 
@@ -327,7 +329,7 @@ For ENSE 375 project, we learned a lot about how to design and develop a softwar
 
 For future work, a graphical user interface can be implemented for better user experience. Also, animations can be added relating to the quiz score. 
 
-# 6 References
+# <a name="7-references"></a>**7 &nbsp;References**
 
 1. P. Ammann and J. Offutt, *Introduction to Software Testing*, 2nd ed. Cambridge, UK: Cambridge University Press, 2016.
 
