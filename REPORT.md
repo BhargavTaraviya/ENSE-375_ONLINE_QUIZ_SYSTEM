@@ -70,7 +70,7 @@
 
 [6 Conclusion and Future Work ](#_Toc43885151)
 
-[7 References](#7-references)
+[7 Presentation Video ](#_Toc43885152)
 
 ## List of Figures
 [1. Block Diagram](#_Toc43885152)  
@@ -329,22 +329,7 @@ For ENSE 375 project, we learned a lot about how to design and develop a softwar
 
 For future work, a graphical user interface can be implemented for better user experience. Also, animations can be added relating to the quiz score. 
 
-# <a name="7-references"></a>**7 &nbsp;References**
-
-1. P. Ammann and J. Offutt, *Introduction to Software Testing*, 2nd ed. Cambridge, UK: Cambridge University Press, 2016.
-
-2. "The Complete Guide to Software Testing," Guru99. [Online]. Available: [https://www.guru99.com/software-testing.html](https://www.guru99.com/software-testing.html).
-
-3. "Effective Online Quiz Design," TEL Sussex. [Online]. Available: [https://blogs.sussex.ac.uk/tel/2015/08/04/effective-online-quiz-design/](https://blogs.sussex.ac.uk/tel/2015/08/04/effective-online-quiz-design/).
-
-4. "Learn Java," W3Schools. [Online]. Available: [https://www.w3schools.com/java/](https://www.w3schools.com/java/).
-
-5. "Introduction to Pattern Designing," GeeksforGeeks. [Online]. Available: [https://www.geeksforgeeks.org/introduction-to-pattern-designing/](https://www.geeksforgeeks.org/introduction-to-pattern-designing/).
-
-6. "Java Best Practices," Stratoflow. [Online]. Available: [https://stratoflow.com/java-best-practices/](https://stratoflow.com/java-best-practices/).
-
-
-## Video Demonstration
+# <a name="_toc43885152"></a>**7 &nbsp;Presentation Video**
 
 [Watch the Presentation video](https://drive.google.com/file/d/1LDc4oFJKZTE3qbhCy5GUTetkhg2fZ5ST/view?usp=drive_link)
 
