@@ -70,7 +70,7 @@
 
 [6 Conclusion and Future Work ](#_Toc43885151)
 
-[7 Presentation Video ](#_Toc43885152)
+[7 Presentation Video ](#_Toc43885155)
 
 ## List of Figures
 [1. Block Diagram](#_Toc43885152)  
@@ -329,7 +329,7 @@ For ENSE 375 project, we learned a lot about how to design and develop a softwar
 
 For future work, a graphical user interface can be implemented for better user experience. Also, animations can be added relating to the quiz score. 
 
-# <a name="_toc43885152"></a>**7 &nbsp;Presentation Video**
+# <a name="_toc43885155"></a>**7 &nbsp;Presentation Video**
 
 [Watch the Presentation video](https://drive.google.com/file/d/1LDc4oFJKZTE3qbhCy5GUTetkhg2fZ5ST/view?usp=drive_link)
 
