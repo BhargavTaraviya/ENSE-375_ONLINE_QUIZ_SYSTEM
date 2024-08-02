@@ -329,5 +329,5 @@ For future work, a graphical user interface can be implemented for better user e
 
 ## Video Demonstration
 
-[Watch the video on Google Drive](https://drive.google.com/file/d/1LDc4oFJKZTE3qbhCy5GUTetkhg2fZ5ST/view?usp=drive_link)
+[Watch the Presentation video](https://drive.google.com/file/d/1LDc4oFJKZTE3qbhCy5GUTetkhg2fZ5ST/view?usp=drive_link)
 
